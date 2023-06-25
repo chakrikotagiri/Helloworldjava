@@ -4,6 +4,6 @@ class HelloWorld
     // Prints "Hello, World" to the terminal window
     public static void main(String args[])
     {
-        System.out.println("Hello Srinivas, Welcome to Jenkins World");
+        System.out.println("Hello Srinivas, This webhook demo");
     }
 }
